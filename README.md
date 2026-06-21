@@ -83,9 +83,15 @@ The reported finding was reviewed and acknowledged through the NASA Vulnerabilit
 
 Sensitive information has been redacted to ensure compliance with disclosure policies.
 
-### Program Acknowledgment
+## Program Acknowledgments
 
-*(Insert redacted acknowledgment screenshot here)*
+### Business Logic Validation Finding
+
+![NASA VDP Business Logic Acknowledgment](screenshots/nasa-vdp-business-logic-acknowledgment.png)
+
+### Email Verification Logic Finding
+
+![NASA VDP Email Verification Acknowledgment](screenshots/nasa-vdp-email-verification-acknowledgment.png)
 
 ---
 
