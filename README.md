@@ -87,11 +87,19 @@ Sensitive information has been redacted to ensure compliance with disclosure pol
 
 ### Business Logic Validation Finding
 
-![NASA VDP Business Logic Acknowledgment](screenshots/nasa-vdp-business-logic-acknowledgment.png)
+![NASA VDP Business Logic Acknowledgment](nasa-vdp-business-logic-acknowledgment.png)
+
+The reported finding was reviewed and acknowledged through the NASA Vulnerability Disclosure Program in accordance with responsible disclosure guidelines.
+
+---
 
 ### Email Verification Logic Finding
 
-![NASA VDP Email Verification Acknowledgment](screenshots/nasa-vdp-email-verification-acknowledgment.png)
+![NASA VDP Email Verification Acknowledgment](nasa-vdp-email-verification-acknowledgment.png)
+
+The finding was submitted through the responsible disclosure process and reviewed by the program team.
+
+---
 
 ---
 
